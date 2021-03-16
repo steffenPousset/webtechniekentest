@@ -1,3 +1,4 @@
+
 # Created by https://www.toptal.com/developers/gitignore/api/altium
 # Edit at https://www.toptal.com/developers/gitignore?templates=altium
 
@@ -22,20 +23,3 @@ Project\ Outputs*/
 
 
 # End of https://www.toptal.com/developers/gitignore/api/altium
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
